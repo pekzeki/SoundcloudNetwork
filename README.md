@@ -42,6 +42,7 @@ $ pip install soundcloud
 
 ### Run
 
+Edit input/permalink_username.txt to indicate profiles you need to crawl.
 Change input/settings.ini file to make your own configuration for neo4j. Take an api-key from Soundcloud and set the cliend_id/client_secret parameters to get an access for the Soundcloud API. 
 
 ```sh

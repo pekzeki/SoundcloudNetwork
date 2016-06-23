@@ -7,6 +7,7 @@ Entities:
   - Users
   - Playlists
   - Comments
+
 Relations:
   - User OWNS Tracks
   - User HAS Playlists

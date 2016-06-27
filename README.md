@@ -19,6 +19,8 @@ Relations:
 
 ![Alt Text](https://github.com/pekzeki/SoundcloudNetwork/blob/master/output/neo4j-snapshot.png)
 
+(Sample neo4j queries can be found in "neo4j-query" file)
+
 ### Version
 1.0
 
